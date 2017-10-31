@@ -1,0 +1,40 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: '@mkalatrash'
+description: "Making iOS things."
+url: "http://nsmo.info"
+author: "Mohammad Alatrash"
+keywords: "atrash,mohammad,mkalatrash,code,ios,mobile,development,startups,technology,tech,design,developer"
+github: mohammad19991
+medium: matrash
+twitter: mkalatrash
+email: mkalatrash@gmail.com
+
+exclude: ["README.md", "CNAME", "LICENSE", ".gitignore"]
+
+timezone: America/New_York
+
+plugins: []
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "base"
