@@ -15,4 +15,4 @@ Thanks for checking out [my website](http://nsmo.info/). Here's how I build my w
 
 ## License
 
-Released under the MIT license. See [LICENSE](https://github.com/mohammad19991/mohammad19991.github.io/LICENSE).
+Released under the MIT license. See [LICENSE](https://github.com/mohammad19991/mohammad19991.github.io/blob/master/LICENSE).
